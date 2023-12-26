@@ -8,6 +8,10 @@
     max-width: 80vw;
     font-family: 'Ubuntu', sans-serif;
 }
+.logo
+{
+    font-size: 1.3rem;
+}
 .navbar
 {
     height: 67px;
@@ -19,6 +23,11 @@
 .top-left
 {
     width: 50vw;
+    height: 100%;
+}
+.dumbellImg
+{
+    width: 94px;
 }
 .top-right
 {
@@ -26,5 +35,19 @@
 }
 .section1
 {
-    
+ height: 20vw;   
+}
+
+.btn
+{
+    padding: 4px 12px;
+    border: 2px solid black;
+    color: white;
+    background-color: rgb(227, 74, 56);
+    border-radius: 6px;
+    cursor:pointer;
+}
+.top-right img
+{
+    height: 500px;
 }

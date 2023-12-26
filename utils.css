@@ -14,15 +14,43 @@
 {
     align-items:center;
 }
-.justify-between
-{
-    justify-content:space-between;
-}
 .flex
 {
     display: flex;
 }
+.flex-col
+{
+    flex-direction: column;
+}
+.justify-between
+{
+    justify-content:space-between;
+}
 .font-bold
 {
-    font-weight: bold;
+    font-weight: bolder;
+}
+.justify-center
+{
+    justify-content: center;
+}
+.my-1
+{
+    margin: 13px 0;
+}
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+.text-blue
+{
+    color: rgb(227, 74, 56);
+}
+.overflow-hidden
+{
+    overflow:hidden;
+}
+.text-center
+{
+    text-align: center;
 }
