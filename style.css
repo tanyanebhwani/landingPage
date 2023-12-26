@@ -27,17 +27,12 @@
 }
 .dumbellImg
 {
-    width: 94px;
+    width: 180px;
 }
 .top-right
 {
     width: 50vw;
 }
-.section1
-{
- height: 20vw;   
-}
-
 .btn
 {
     padding: 4px 12px;
@@ -50,4 +45,79 @@
 .top-right img
 {
     height: 500px;
+}
+.top-left
+{
+    height: 100%;
+}
+.section1
+{
+    height: 80vh;
+}
+.section1 h1{
+    font-size: 2rem;
+}
+.section2 h1
+{
+    font-size: 2.3rem;
+}
+.section3 h1
+{
+    font-size: 2.3rem;
+}
+.box
+{
+    padding: 8px 0;
+    margin:12px 12px;
+    min-width: 20vw;
+    border: 1px solid rgb(158, 100, 19);
+    text-align: center;
+    border-radius: 8px;
+}
+.box ul
+{
+    list-style: none;
+}
+.box ul li
+{
+    margin: 12px 2px;
+}
+.box h2{
+    font-size: 2rem;
+    padding: 12px 0;
+}
+.section2 p
+{
+    padding: 0 5vw;
+    text-align: center;
+}
+section
+{
+    padding: 73px;
+}
+.plantable
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section3 table
+{
+    width: 100%;
+    margin: 40px 40px;
+    margin-bottom: 140px;
+    border-collapse: collapse;
+}
+.section3 table th
+{
+    width: 23vw;
+    border-bottom:2px solid black ;
+    padding: 15px 0;
+}
+.section3 table td
+{
+}
+footer
+{
+    text-align: center;
 }
